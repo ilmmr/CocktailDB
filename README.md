@@ -1,4 +1,4 @@
-# PRC 2021
+# CocktailDB
 <div align="center">
     <img src="Images/favicon.ico">
     <h1>Platform to store and consult "Cocktails"</h1>
